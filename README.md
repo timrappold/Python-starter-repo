@@ -4,7 +4,7 @@ A brief, snappy description of what this project does, and why the audience care
 
 ## Quick start
 
-```python
+```bash
 # Set up Anaconda virtual environment
 conda env create -f environment.yml --force
 
